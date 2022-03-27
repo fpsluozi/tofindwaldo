@@ -1,5 +1,8 @@
 # To Find Waldo You Need Contextual Cues: Debiasing Who’s Waldo
-This is the official repository for "To Find Waldo You Need Contextual Cues: Debiasing Who’s Waldo", ACL 2022. 
+This is the official repository for "To Find Waldo You Need Contextual Cues: Debiasing Who’s Waldo". 
+
+* [Yiran Luo](https://github.com/fpsluozi), [Pratyay Banerjee](https://pratyay-banerjee.github.io/), [Tejas Gokhale](https://www.public.asu.edu/~tgokhale/), [Yezhou Yang](https://yezhouyang.engineering.asu.edu/), [Chitta Baral](https://www.public.asu.edu/~cbaral/) .
+* ACL 2022 (Short Paper)
 ## Prerequisites
 1. Follow the instructions from [the original Who's Waldo work](https://whoswaldo.github.io/) and acquire [the original dataset](https://whoswaldo.github.io/dataset) as well as [the source code](https://github.com/clairecyq/whos-waldo).
  
@@ -11,4 +14,4 @@ This is the official repository for "To Find Waldo You Need Contextual Cues: Deb
 MIT
 
 ## Citation
-In the works
+TBA
