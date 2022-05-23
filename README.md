@@ -1,5 +1,5 @@
 # To Find Waldo You Need Contextual Cues: Debiasing Who’s Waldo
-This is the official repository for "To Find Waldo You Need Contextual Cues: Debiasing Who’s Waldo". 
+This is the official repository for ["To Find Waldo You Need Contextual Cues: Debiasing Who’s Waldo"](https://aclanthology.org/2022.acl-short.39/). 
 
 * [Yiran Luo](https://github.com/fpsluozi), [Pratyay Banerjee](https://pratyay-banerjee.github.io/), [Tejas Gokhale](https://www.public.asu.edu/~tgokhale/), [Yezhou Yang](https://yezhouyang.engineering.asu.edu/), [Chitta Baral](https://www.public.asu.edu/~cbaral/) .
 * ACL 2022 (Short Paper)
@@ -14,4 +14,14 @@ This is the official repository for "To Find Waldo You Need Contextual Cues: Deb
 MIT
 
 ## Citation
-TBA
+```
+@inproceedings{luo-etal-2022-find,
+    title = "To Find Waldo You Need Contextual Cues: Debiasing Who{'}s Waldo",
+    author = "Luo, Yiran and Banerjee, Pratyay and Gokhale, Tejas and Yang, Yezhou and Baral, Chitta",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = may,
+    year = "2022",
+    url = "https://aclanthology.org/2022.acl-short.39",
+    pages = "355--361",
+}
+```
